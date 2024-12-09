@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhikhokhar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on different projects
 - 📫 You can reach me at https://abhikhokhar.live
 
