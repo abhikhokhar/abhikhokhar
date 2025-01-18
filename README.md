@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 - **Hi, I'm [Abhi Khokhar](https://abhikhokhar.live)**
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJS**
 - 💻 I’m passionate about **web development** and building amazing Projects
 - 🌍 Based in Delhi, India
 - 🚀 I’m looking to collaborate on **frontend and full-stack projects**
@@ -60,7 +60,4 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge)](https://abhikhokhar.live)
 
 ---
-
-![Footer Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 ### Made with ❤️ by [Abhi Khokhar](https://abhikhokhar.live)
