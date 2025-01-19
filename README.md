@@ -1,15 +1,31 @@
-# 👋 Welcome to My GitHub Profile!
+<!-- Profile README.md -->
 
-![Developer Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<a href="https://github.com/abhikhokhar" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=300&pause=1500&color=2BE642&center=true&vCenter=true&width=1080&height=150&lines=Hello%2C+I+am+Abhi+Khokhar!;Welcome+to+my+profile!;%20" alt="Typing SVG"/>
+</a>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/1af8b5bb-fa00-44c1-b5aa-c75e988437e4" align="center" style="width: 100%"/>
+</div>
 
----
+
+
+
+
+
+<h3 align="center">A passionate MERN stack developer </h3>
+
+<p align="center">
+  <img src="./gitbg.png" align="center" style="width: 100%" alt="Abhi Khokhar" />
+  
+</p>
+
 
 ## 🙋‍♂️ About Me
 
 - **Hi, I'm [Abhi Khokhar](https://abhikhokhar.live)**
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS** and diving deep into the **MERN stack**.
+- 🎓 2nd-year **B.Tech** student exploring the exciting world of development.
 - 💻 I’m passionate about **web development** and building amazing Projects
-- 🌍 Based in Delhi, India
 - 🚀 I’m looking to collaborate on **frontend and full-stack projects**
 - 📫 You can reach me at: [abhikhokhar.live](https://abhikhokhar.live)
 
@@ -60,4 +76,8 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge)](https://abhikhokhar.live)
 
 ---
+
+![Developer Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
 ### Made with ❤️ by [Abhi Khokhar](https://abhikhokhar.live)
