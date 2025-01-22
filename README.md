@@ -61,7 +61,13 @@
 
 ### Featured Projects
 
+📫 **[CloudAPI-Explorer](https://github.com/abhikhokhar/CloudAPI-Explorer)** - An  intuitive weather app with API interagation to fetch and display real-time weather data
+
+
 💻 **[E-Commerce Website](https://github.com/abhikhokhar/ecommerce-site)** - A professional and responsive e-commerce web application.
+
+
+
 
 
 🚀 **[Password Generator](https://github.com/abhikhokhar/password-generator)** - A customizable password generator built with ReactJS and Tailwind CSS.
