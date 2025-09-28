@@ -24,7 +24,7 @@
 
 - **Hi, I'm [Abhi Khokhar](https://abhikhokhar.netlify.app/)**
 - 🌱 I’m currently learning **NodeJS** and diving deep into the **MERN stack**.
-- 🎓 2nd-year **B.Tech** student exploring the exciting world of development.
+- 🎓 3rd-year **B.Tech** student exploring the exciting world of development.
 - 💻 I’m passionate about **web development** and building amazing Projects
 - 🚀 I’m looking to collaborate on **frontend and full-stack projects**
 - 📫 You can reach me at: [abhikhokhar](https://abhikhokhar.netlify.app/)
