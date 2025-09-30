@@ -22,12 +22,12 @@
 
 ## 🙋‍♂️ About Me
 
-- **Hi, I'm [Abhi Khokhar](https://abhikhokhar.netlify.app/)**
+- **Hi, I'm [Abhi Khokhar](https://abhikhokhar.tech/)**
 - 🌱 I’m currently learning **NodeJS** and diving deep into the **MERN stack**.
 - 🎓 3rd-year **B.Tech** student exploring the exciting world of development.
 - 💻 I’m passionate about **web development** and building amazing Projects
 - 🚀 I’m looking to collaborate on **frontend and full-stack projects**
-- 📫 You can reach me at: [abhikhokhar](https://abhikhokhar.netlify.app/)
+- 📫 You can reach me at: [abhikhokhar](https://abhikhokhar.tech/)
 
 ---
 
@@ -79,4 +79,4 @@
 ![Developer Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
-### Made with ❤️ by [Abhi Khokhar](https://abhikhokhar.netlify.app/)
+### Made with ❤️ by [Abhi Khokhar](https://abhikhokhar.tech/)
